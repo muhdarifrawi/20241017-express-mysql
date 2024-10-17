@@ -1,0 +1,1 @@
+- HBS itself does not have template inhertance so we need `wax-on` to create it.
